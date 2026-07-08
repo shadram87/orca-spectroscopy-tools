@@ -1,0 +1,17 @@
+file,spectrum_type,extremum,wavelength_nm,intensity,prominence
+molecule_A.abs.dat,abs,maximum,360,1.00142,0
+molecule_A.abs.dat,abs,maximum,505,0.550002,0
+molecule_B.abs.dat,abs,maximum,390.5,0.85354,0
+molecule_B.abs.dat,abs,maximum,545,0.650001,0
+molecule_A.cd.dat,cd,maximum,344.5,0.992658,0
+molecule_A.cd.dat,cd,minimum,429,-0.736922,0
+molecule_A.cd.dat,cd,maximum,521.5,0.34608,0
+molecule_B.cd.dat,cd,maximum,369.5,0.845502,0
+molecule_B.cd.dat,cd,minimum,469,-0.590415,0
+molecule_B.cd.dat,cd,maximum,576.5,0.297429,0
+molecule_A.mcd.dat,mcd,maximum,359.5,0.547362,0
+molecule_A.mcd.dat,mcd,minimum,453.5,-0.389182,0
+molecule_A.mcd.dat,mcd,maximum,560.5,0.249157,0
+molecule_B.mcd.dat,mcd,maximum,389.5,0.448246,0
+molecule_B.mcd.dat,mcd,minimum,498,-0.319341,0
+molecule_B.mcd.dat,mcd,maximum,611.5,0.218353,0
